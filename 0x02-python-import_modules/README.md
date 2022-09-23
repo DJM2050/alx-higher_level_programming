@@ -1,1 +1,1 @@
-Read
+This readme was imported from another repository.
